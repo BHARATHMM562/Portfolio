@@ -1113,5 +1113,47 @@ spline-viewer {
   font-size: 0.75rem;
   font-weight: 600;
 }
+/* Shared placeholder base */
+.project-placeholder {
+  height: 220px;
+  width: 100%;
+  border-radius: 16px 16px 0 0;
+}
 
-  
+/* Project-specific backgrounds */
+
+/* Wispr Flow Clone */
+.project-0-bg {
+  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+}
+
+/* NoteNest */
+.project-1-bg {
+  background: linear-gradient(135deg, #667eea, #764ba2);
+}
+
+/* The Ascent */
+.project-2-bg {
+  background: linear-gradient(135deg, #f857a6, #ff5858);
+}
+
+/* Water Rover */
+.project-3-bg {
+  background: linear-gradient(135deg, #43cea2, #185a9d);
+}
+
+/* Personal Portfolio */
+.project-4-bg {
+  background: linear-gradient(135deg, #141e30, #243b55);
+}
+
+/* Train Crack Detection */
+.project-5-bg {
+  background: linear-gradient(135deg, #ff9966, #ff5e62);
+}
+
+/* WHO OWNS THIS */
+.project-6-bg {
+  background: linear-gradient(135deg, #232526, #414345);
+}
+
